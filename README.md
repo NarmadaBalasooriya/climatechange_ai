@@ -26,10 +26,12 @@ We have categorized the areas in which we see machine learning playing a meaning
 - **Industry**: Industrial robots, supply chain management, tracking hydrofluorocarbons (HFCs), industrial demand response, natural gas leak detection
 - **Sequestration**: Optimizing carbon-capture materials/methods, CO2 leak detection
  - **Agriculture, Forestry and Other Land Use (AFOLU)**:  Farming robots, sensing/interpreting data for precision agriculture, tools for farm management, methane capture, plant-based foods, tracking deforestation, automated afforestation, carbon stock estimation
+ 
 **Adaptation**
 - **Climate models**: Fine-grained and multi-resolution models (higher spatial & temporal resolution), cross-domain interactions (e.g. atmospheric/coastal) and domain transfer, tracking ice
 - **Societal impacts**: Effects on agriculture, natural resources (fisheries, forestry, etc.), climate-informed disease models, analysis of water systems (rain, rivers, deltas, dams), migration patterns, ecosystem monitoring
-**Extreme events**: Fire prediction and intervention, storm prediction, coastal engineering, lethal heat events
+- **Extreme events**: Fire prediction and intervention, storm prediction, coastal engineering, lethal heat events
+
 **Society**
 - **Tools for individuals**: Cost/benefit analysis of personal power usage/renewables, impact calculation and recommendations, local resources (e.g. compost), voluntary carbon tax
 - **Tools for cooperation and coordination**: Large-scale planning, aggregation of preferences, mechanism design / game theory, structural risk estimation and management
@@ -39,6 +41,10 @@ We have categorized the areas in which we see machine learning playing a meaning
 
  
 ## Confirmed Speakers
+- [Chad Frischmann]
+- [Claire Monteleoni]
+- [John Platt]
+- [Karthik Mukkavalli]
 - [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) (Mila, University of Montreal)
 
 ## Schedule
