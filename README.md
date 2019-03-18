@@ -4,7 +4,7 @@ Climate change is widely agreed to be one of the greatest challenges facing huma
 
 # ICML 2019 Workshop
 
-**Goals:** In this workshop, we aim to do the following:
+**Goals.** In this workshop, we aim to do the following:
 - Introduce the machine learning community to meaningful ways ML can be applied to address climate change.
 - Show that this work is compelling from an ML perspective, even irrespective of climate.
 - Provide a platform for researchers and entrepreneurs who are working in this space already.
@@ -12,6 +12,8 @@ Climate change is widely agreed to be one of the greatest challenges facing huma
 - Crucially, we are not interested purely or even primarily in applying ML to climate modeling - rather we are interested in applying ML to solutions to the problem of climate change (see “Areas of focus” below).
 
 **No politics.** This workshop will consider technologies for addressing climate change; political discussion is wholly inappropriate for this venue. There will be no endorsement of any political stance, nor imputation of such to ICML organizers or attendees. All speakers will be strictly held to this standard.
+
+**Organizers.** David Rolnick, Alexandre Lacoste, Tegan Maharaj, Jennifer Chayes, Yoshua Bengio
 
 ## Call For Papers
 We welcome submissions on any topic which approaches ML as a solution to climate change, in two forms: (1) **short papers (2-4 pages +refs)** may be position papers, extended abstracts, propositions for novel solutions or ways ML might be applied to address climate change; (2) **full papers (6-8 pages +refs)** should present technical work which uses ML to address the problem of climate change. Submissions should use the ICML latex template. A summary of anticipated topics is detailed below, however we welcome creative ideas/solutions! All accepted papers will be presented in the form of posters, as well as as many spotlights as time permits. Exceptional submissions will be considered for longer talks, and two prizes will be awarded, for best full paper and best short paper.
@@ -39,12 +41,6 @@ We have categorized the areas in which we see machine learning playing a meaning
 - **Data communication**: Visualization and data interpretation, news recommendation
 - **Finance**: Cost/benefit analysis, financial instruments related to climate change, tools for climate-positive investment
 
-## Organizers
-- David Rolnick
-- Alexandre Lacoste
-- Tegan Maharaj 
-- Jennifer Chayes
-- Yoshua Bengio
  
 ## Confirmed Speakers
 - [Chad Frischmann]
