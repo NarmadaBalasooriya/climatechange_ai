@@ -1,6 +1,14 @@
 ---
 ---
 
+// Headers
+$header-bg-color: #04587B !default;
+$header-bg-color-secondary: #155799 !default;
+
+// Text
+$section-headings-color: #04587B !default;
+
+
 @import 'jekyll-theme-cayman';
 
 .page-header {
@@ -12,6 +20,10 @@
   {
     font-weight: 600;
     font-size: 22px;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 }
