@@ -1,1 +1,7 @@
-@import "{{ site.theme }}";
+---
+---
+
+@import 'jekyll-theme-cayman';
+.page-header{
+  background-image: url('https://s3.amazonaws.com/lemonadestand1/willian-justen-de-vasconcellos-430007-unsplash.jpg')
+}
