@@ -1,4 +1,3 @@
-![Image](https://s3.amazonaws.com/lemonadestand1/willian-justen-de-vasconcellos-430007-unsplash.jpg)
 
 Climate change is widely agreed to be one of the greatest challenges facing humanity, if not the greatest. Emissions of greenhouse gases have caused a sharp increase in global temperatures since the industrial revolution, far more abrupt than any previous climate fluctuations. Changing temperatures have already led to increased incidence and severity of storms, droughts, fires, and flooding, besides triggering significant changes to global ecosystems, including the natural resources and agriculture that humanity depends on. These changes will accelerate due to feedback loops such as the melting of ice and release of methane from permafrost. The 2018 UN report on climate change estimates that the world has only thirty years to eliminate greenhouse emissions completely if we are to avoid catastrophic consequences.
 
