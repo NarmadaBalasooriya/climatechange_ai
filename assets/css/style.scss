@@ -2,6 +2,18 @@
 ---
 
 @import 'jekyll-theme-cayman';
-.page-header{
+.page-header {
+  height: 450px;
+  color: black;
+  background-position: center center;
   background-image: url('https://s3.amazonaws.com/lemonadestand1/willian-justen-de-vasconcellos-430007-unsplash.jpg')
+  a{
+    border: 1px solid black;
+    color:black;
+  }
+  .project-tagline
+  {
+    font-weight: 600;
+    font-size: 22px;
+  }
 }
